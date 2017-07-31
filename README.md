@@ -1,4 +1,4 @@
-# ConferenceTalks - 2017
+# [@lindydonna](https://twitter.com/lindydonna) Conference Talks - 2017
 
 I'm giving the following conference talks this year.
 
