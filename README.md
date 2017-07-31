@@ -1,4 +1,4 @@
-# [@lindydonna](https://twitter.com/lindydonna) Conference Talks - 2017
+# 2017 Conference Talks by Donna Malayeri - [@lindydonna](https://twitter.com/lindydonna)
 
 I'm giving the following conference talks this year.
 
