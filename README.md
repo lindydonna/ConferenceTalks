@@ -40,7 +40,7 @@ Serverless is a great computing abstraction. When combined with great tools, dev
 
 ## [Not confirmed] Oct 9-11 - [ServerlessConf NYC](https://nyc.serverlessconf.io/), New York, NY
 
-Talk TBD
+TBD
 
 ## Oct 31-Nov2 - [DEVintersection Las Vegas](https://www.devintersection.com/#!/), Las Vegas, NV
 
@@ -48,7 +48,7 @@ Talk TBD
 
 You’ve heard the “serverless” buzzword, but do you know why it matters?  In this session, you’ll learn about Azure Functions and how you can build applications more quickly than ever before. With Functions, you pay per execution, which can substantially lower your costs. The platform automatically scales up and down based on the number of incoming events. Serverless is useful for data transformation, cron processing, IoT, and even integrating with Office 365. In this session, we’ll describe the concepts behind serverless computing and show how easy it is to run Functions on your local machine. Using Visual Studio or Visual Studio Code, you can even debug and trigger on events in Azure. This demo-rich session will teach you how to create your own functions using our best-in-class tooling.
 
-## Dec 11-12 - Second International Workshop on Serverless Computing (WoSC) 2017 (http://www.serverlesscomputing.org/wosc2/), Las Vegas, NV
+## Dec 11-12 - 2nd International Workshop on Serverless Computing (WoSC) (http://www.serverlesscomputing.org/wosc2/), Las Vegas, NV
 
 ### Serverless computing - fad or revolution?
 
