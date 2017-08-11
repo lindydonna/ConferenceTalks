@@ -24,7 +24,7 @@ You’ve heard the “serverless” buzzword, but do you know why it matters?  I
 
 App Service has a number of powerful features that make it easy to build an automated CI/CD pipeline. Learn how to leverage VSTS integration and deployment slots to create a deployment pipeline, and how to use Azure Application Insights to learn how your app is behaving in production. We’ll demonstrate how to use deployment slots to deploy safely to production, with no impact on end-user performance. You’ll also learn how to automate resource creation and deployment using Azure Resource Manager Templates and the Azure CLI. These features are not just for Web Apps that run on Windows: we’ll demo how you can also create an enterprise-grade deployment process on Linux Web Apps.
 
-## [Not confirmed] Sep 19-21 - [.NET Conf 2017](http://www.dotnetconf.net/), Virtual event
+## Sep 20 - [.NET Conf 2017](http://www.dotnetconf.net/), Virtual event
 
 ### Go Serverless with Azure Functions and C#
 
