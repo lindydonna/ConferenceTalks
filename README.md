@@ -24,14 +24,6 @@ You’ve heard the “serverless” buzzword, but do you know why it matters?  I
 
 App Service has a number of powerful features that make it easy to build an automated CI/CD pipeline. Learn how to leverage VSTS integration and deployment slots to create a deployment pipeline, and how to use Azure Application Insights to learn how your app is behaving in production. We’ll demonstrate how to use deployment slots to deploy safely to production, with no impact on end-user performance. You’ll also learn how to automate resource creation and deployment using Azure Resource Manager Templates and the Azure CLI. These features are not just for Web Apps that run on Windows: we’ll demo how you can also create an enterprise-grade deployment process on Linux Web Apps.
 
-## Sep 20 - [.NET Conf 2017](http://www.dotnetconf.net/), Virtual event
-
-### Go Serverless with Azure Functions and C#
-
-You’ve heard the “serverless” buzzword, but do you know why it matters?  In this session, you’ll learn about Azure Functions, Microsoft’s serverless compute offering. It enables you to build .NET applications more quickly than ever before. Plus, you can lower your costs because you pay per execution. The platform automatically scales up and down based on the number of incoming events. Serverless is useful for data transformation, cron processing, IoT, web and mobile backends, and more. 
- 
-In this session, we’ll describe the concepts behind serverless computing and show how easy it is to author C# Azure Functions in Visual Studio. You can run, debug, and even trigger on events in Azure, right from Visual Studio. Once you’ve deployed your application, you can monitor it with Application Insights, giving you rich queries and a view of the health of your application. This demo-rich session will teach you how to create your own functions using our best-in-class tooling.
-
 ## Sep 25-29 - [Microsoft Ignite](https://www.microsoft.com/en-us/ignite/), Orlando, FL
 
 ### A day in the life of an Azure serverless developer
