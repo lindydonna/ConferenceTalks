@@ -30,15 +30,11 @@ App Service has a number of powerful features that make it easy to build an auto
 
 Serverless is a great computing abstraction. When combined with great tools, developers can be more productive than ever. In this session, see the end-to-end experience of using the Microsoft Azure platform to build your serverless applications. Through demos, learn how to build, deploy, manage, and monitor your applications. We focus on Azure Functions and Azure Logic Apps and show tools such as Application Insights, Visual Studio, and Visual Studio Code.
 
-## [Not confirmed] Oct 9-11 - [ServerlessConf NYC](https://nyc.serverlessconf.io/), New York, NY
+## Oct 9-11 - [ServerlessConf NYC](https://nyc.serverlessconf.io/), New York, NY
 
-TBD
+### Managing the serverless application lifecycle
 
-## Oct 31-Nov2 - [DEVintersection Las Vegas](https://www.devintersection.com/#!/), Las Vegas, NV
-
-### Go Serverless with Azure Functions
-
-You’ve heard the “serverless” buzzword, but do you know why it matters?  In this session, you’ll learn about Azure Functions and how you can build applications more quickly than ever before. With Functions, you pay per execution, which can substantially lower your costs. The platform automatically scales up and down based on the number of incoming events. Serverless is useful for data transformation, cron processing, IoT, and even integrating with Office 365. In this session, we’ll describe the concepts behind serverless computing and show how easy it is to run Functions on your local machine. Using Visual Studio or Visual Studio Code, you can even debug and trigger on events in Azure. This demo-rich session will teach you how to create your own functions using our best-in-class tooling.
+Serverless frees developers from managing infrastructure, but it can be challenging to debug, deploy, and monitor applications. In this session, we'll demonstrate best practices for unit testing, integration testing and deployment. Learn how to create a robust CI/CD pipeline and deploy safely to production. Instrument your code so that you have rich telemetry and alerting. We'll show how to implement these best practices using Azure Functions and Application Insights.
 
 ## Dec 11-12 - 2nd International Workshop on Serverless Computing (WoSC) (http://www.serverlesscomputing.org/wosc2/), Las Vegas, NV
 
