@@ -1,43 +1,31 @@
-# 2017 Conference Talks by Donna Malayeri - [@lindydonna](https://twitter.com/lindydonna)
+# 2018 Talks by Donna Malayeri - [@lindydonna](https://twitter.com/lindydonna)
 
-I'm giving the following conference talks this year.
+## Upcoming talks
 
-## Thu Aug 17 - [Visual Studio Live!](https://vslive.com/Events/Redmond-2017/Home.aspx), Redmond WA
+### May 16 - [GlueCon 2018](http://gluecon.com/#agenda), Denver, CO
 
-### Serverless with Azure Functions – scale dynamically and pay per execution
+#### For Immutable Infrastructure, Real Code beats DSLs 
 
-Azure Functions is Microsoft’s serverless compute offering. Azure Functions is event-based, so you can trigger from a queue message, blob, a timer, or even a OneDrive file. You pay per execution and the platform automatically scales based on the rate of events. In this session, we’ll describe the concepts behind serverless computing and show how easy it is to author Azure Functions in Visual Studio. You can run, debug, and even trigger on events in Azure. For monitoring, Azure Functions integrates with Application Insights. This provides rich queries and alerting, making it easy to understand how your application is performing. This demo-rich session will teach you how to create your own functions using the best-in-class Visual Studio tooling. 
+As DevOps has evolved, developers are more often responsible for creating and managing the infrastructure their application code depends on. Unfortunately, cloud tools are designed around the previous ops model, where there were organizational silos between dev and ops teams. We’ll describe a novel idea: what if you could write code in a general purpose language, code that defines both your declarative infrastructure and your application logic? What if we go beyond the idea of infrastructure-as-code, and treat infrastructure as software? We’ll show how this approach creates a fundamental shift in the way in which modern cloud applications are designed and developed.
 
-## Sat Sep 9 - [Seattle Code Camp](https://seattle.codecamp.us/), Seattle, WA
+### June 14 - [Velocity 2018](https://conferences.oreilly.com/velocity/vl-ca)
 
-### A day in the life of a product manager
-  
-Have you ever wondered why most product managers seem to be in meetings all day? Do you work effectively with your product manager? I’ll go through some areas that PMs typically manage and why they are important to your business. After this talk, you’ll learn about the many teams that contribute to the success of your product, such as marketing, evangelism, and sales. You’ll have an answer to the mystery of what all those meetings are for, and why Outlook is our IDE. Finally, you’ll learn how your PM can help you be even more effective.
+#### [Tooling in the age of serverless computing](https://conferences.oreilly.com/velocity/vl-ca/public/schedule/detail/67950)
 
-## Sep 18-19 - [DEVintersection Europe](https://www.devintersectioneurope.com/#!/), Stockholm, Sweden
+At its core, serverless can be considered “service-full” computing, a trend that’s been around for a while. Instead of running your own Redis cluster, you use a managed cache service. Instead of running a database server on VMs, you use a database service. Serverless simply pushes this notion further: rather than keep a container active when it’s not processing requests, use a managed functions-as-a-service platform such as AWS Lambda, Azure Functions, or Google Cloud Functions.
 
-### Go Serverless with Azure Functions
+This trend creates an architectural shift: strangely, your application becomes simultaneously simpler and more complex. Simplicity comes from managed services, which allow you to focus on your business problem instead of infrastructure. Complexity comes from the extra moving parts once you’re juggling dozens of services and hundreds of individual components. While managed services simplify your application, you must now control and understand each of them.
 
-You’ve heard the “serverless” buzzword, but do you know why it matters?  In this session, you’ll learn about Azure Functions and how you can build applications more quickly than ever before. With Functions, you pay per execution, which can substantially lower your costs. The platform automatically scales up and down based on the number of incoming events. Serverless is useful for data transformation, cron processing, IoT, and even integrating with Office 365. In this session, we’ll describe the concepts behind serverless computing and show how easy it is to run Functions on your local machine. Using Visual Studio or Visual Studio Code, you can even debug and trigger on events in Azure. This demo-rich session will teach you how to create your own functions using our best-in-class tooling.
-  
-### DevOps best practices on Azure App Service
+There are a growing number of tools that aim to wrangle this complexity. Of course, we’ve now traded one problem for another: determining which tools are best for your project, application, or organization—or if you even need a tool at all.
 
-App Service has a number of powerful features that make it easy to build an automated CI/CD pipeline. Learn how to leverage VSTS integration and deployment slots to create a deployment pipeline, and how to use Azure Application Insights to learn how your app is behaving in production. We’ll demonstrate how to use deployment slots to deploy safely to production, with no impact on end-user performance. You’ll also learn how to automate resource creation and deployment using Azure Resource Manager Templates and the Azure CLI. These features are not just for Web Apps that run on Windows: we’ll demo how you can also create an enterprise-grade deployment process on Linux Web Apps.
+Tooling is necessary for serverless and service-full applications. Donna Malayeri shares a decision framework for choosing infrastructure deployment tools, based on whether you need flexibility and control or simplicity and ease-of-use. You’ll learn how to evaluate several popular cloud automation tools, including AWS SAM, Terraform, Chalice, Serverless Framework, Apex/Up, Claudia, kubeless, and Pulumi. Each of these tools offers something unique and is designed for particular problem spaces. There’s no one-size-fits-all answer and sometimes you’re better off with no tool at all.
 
-## Sep 25-29 - [Microsoft Ignite](https://www.microsoft.com/en-us/ignite/), Orlando, FL
+## Past talks
 
-### A day in the life of an Azure serverless developer
+### Jan 24 2018 - [ProductTank Bellevue Meetup](https://www.meetup.com/ProductTank-Bellevue), Bellevue, WA
 
-Serverless is a great computing abstraction. When combined with great tools, developers can be more productive than ever. In this session, see the end-to-end experience of using the Microsoft Azure platform to build your serverless applications. Through demos, learn how to build, deploy, manage, and monitor your applications. We focus on Azure Functions and Azure Logic Apps and show tools such as Application Insights, Visual Studio, and Visual Studio Code.
+#### [From Enterprise to Startup: How to be a successful Product Manager](https://www.meetup.com/ProductTank-Bellevue/events/246823880/)
 
-## Oct 9-11 - [ServerlessConf NYC](https://nyc.serverlessconf.io/), New York, NY
+In tech, the role of a Product and Program Manager is constantly evolving. Even within an organization, the role can be dramatically different, depending on the team and the product. Donna will talk about how the role evolved at Microsoft over the years, and what she's learned now from being at a startup. Then we'll lead an open discussion of how to adjust your role to suit your team and business needs.
 
-### Managing the serverless application lifecycle
-
-Serverless frees developers from managing infrastructure, but it can be challenging to debug, deploy, and monitor applications. In this session, we'll demonstrate best practices for unit testing, integration testing and deployment. Learn how to create a robust CI/CD pipeline and deploy safely to production. Instrument your code so that you have rich telemetry and alerting. We'll show how to implement these best practices using Azure Functions and Application Insights.
-
-## Dec 11-12 - 2nd International Workshop on Serverless Computing (WoSC) (http://www.serverlesscomputing.org/wosc2/), Las Vegas, NV
-
-### Serverless computing - fad or revolution?
-
-You’ve heard the “serverless” buzzword, but what does it mean?  Is it yet another fad, or a revolution in cloud computing? In this session, you'll learn why serverless is becoming a new computing paradigm, enabling developers to build applications more quickly than ever before. However, serverless is not the best fit for every application. In this session, we'll cover the scenarios where serverless works best, such as data transformation, CRON jobs, and IoT. Demos will focus on Azure Functions and show how easy it is to run and debug functions on your local machine. Go beyond the hype and learn whether serverless is a good fit for your workload.
+[Talk slides](/slides/Malayeri-ProductTankBellevue-2018-01-24.pdf)
