@@ -18,7 +18,7 @@ Through real application examples, this talk will describe guidelines for when t
 
 As DevOps has evolved, developers are more often responsible for creating and managing the infrastructure their application code depends on. Unfortunately, cloud tools are designed around the previous ops model, where there were organizational silos between dev and ops teams. We’ll describe a novel idea: what if you could write code in a general purpose language, code that defines both your declarative infrastructure and your application logic? What if we go beyond the idea of infrastructure-as-code, and treat infrastructure as software? We’ll show how this approach creates a fundamental shift in the way in which modern cloud applications are designed and developed.
 
-### June 14 - [Velocity 2018](https://conferences.oreilly.com/velocity/vl-ca)
+### June 14 - [Velocity 2018](https://conferences.oreilly.com/velocity/vl-ca), San Jose, CA
 
 #### [Tooling in the age of serverless computing](https://conferences.oreilly.com/velocity/vl-ca/public/schedule/detail/67950)
 
