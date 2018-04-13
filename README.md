@@ -39,3 +39,11 @@ Tooling is necessary for serverless and service-full applications. Donna Malayer
 In tech, the role of a Product and Program Manager is constantly evolving. Even within an organization, the role can be dramatically different, depending on the team and the product. Donna will talk about how the role evolved at Microsoft over the years, and what she's learned now from being at a startup. Then we'll lead an open discussion of how to adjust your role to suit your team and business needs.
 
 [Talk slides](/slides/Malayeri-ProductTankBellevue-2018-01-24.pdf)
+
+### Sep 9 2017 - [Seattle Code Camp](https://seattle.codecamp.us/), Seattle, WA
+ 
+#### A day in the life of a product manager
+
+Have you ever wondered why most big company product managers seem to be in meetings all day? Do you work effectively with your product manager? I’ll go through some areas that PMs typically manage and why they are important to your business. After this talk, you’ll learn about the many teams that contribute to the success of your product, such as marketing, evangelism, and sales. You’ll have an answer to the mystery of what all those meetings are for, and why Outlook is our IDE. Finally, you’ll learn how your PM can help you be even more effective.
+
+[Talk slides](/slides/Malayeri-PM-SeattleCodeCamp-2017-09.pdf)
