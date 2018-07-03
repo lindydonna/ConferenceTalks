@@ -21,7 +21,7 @@ In this talk, you’ll learn why it’s not serverless OR containers, it’s ser
 
 ### June 27 2018 - [GeekWire Cloud Tech Summit](https://www.geekwire.com/2018/inside-2018-geekwire-cloud-tech-summit-photos-recap-perfectly-cloudy-day/)
 
-### Serverless and Containers: a Match Made in the Cloud
+#### Serverless and Containers: a Match Made in the Cloud
 
 - [Talk slides](/slides/Malayeri-GeekWireCloudSummit-2018-06-27.pdf)
 - [Video](https://www.youtube.com/watch?v=owUsf9P8iNw&feature=youtu.be)
