@@ -6,7 +6,7 @@
 
 ## Past talks
 
-### June 29 - [QCon New York](https://qconnewyork.com/)
+### June 29 2018 - [QCon New York](https://qconnewyork.com/)
 
 #### [Serverless + Containers = Modern Cloud Applications](https://qconnewyork.com/ny2018/presentation/finding-serverless-sweetspot-presentation)
 
@@ -19,7 +19,9 @@ We’ll talk about how we’ve helped our customers transition from a traditiona
 
 In this talk, you’ll learn why it’s not serverless OR containers, it’s serverless AND containers.
 
-### June 17 - [GeekWire Cloud Tech Summit](https://www.geekwire.com/2018/inside-2018-geekwire-cloud-tech-summit-photos-recap-perfectly-cloudy-day/)
+### June 27 2018 - [GeekWire Cloud Tech Summit](https://www.geekwire.com/2018/inside-2018-geekwire-cloud-tech-summit-photos-recap-perfectly-cloudy-day/)
+
+### Serverless and Containers: a Match Made in the Cloud
 
 - [Talk slides](/slides/Malayeri-GeekWireCloudSummit-2018-06-27.pdf)
 - [Video](https://www.youtube.com/watch?v=owUsf9P8iNw&feature=youtu.be)
@@ -30,7 +32,7 @@ In fact, we’re seeing an emerging trend: applications now use a combination of
 
 Through real application examples, this talk will describe guidelines for when to use containers and when to use serverless functions. Serverless and containers really are better together--learn how to have the best of both worlds!
 
-### June 14 - [Velocity 2018](https://conferences.oreilly.com/velocity/vl-ca)
+### June 14 2018 - [Velocity 2018](https://conferences.oreilly.com/velocity/vl-ca)
 
 #### [Tooling in the age of serverless computing](https://conferences.oreilly.com/velocity/vl-ca/public/schedule/detail/67950)
 
@@ -45,11 +47,11 @@ There are a growing number of tools that aim to wrangle this complexity. Of cour
 
 Tooling is necessary for serverless and service-full applications. Donna Malayeri shares a decision framework for choosing infrastructure deployment tools, based on whether you need flexibility and control or simplicity and ease-of-use. You’ll learn how to evaluate several popular cloud automation tools, including AWS SAM, Terraform, Chalice, Serverless Framework, Apex/Up, Claudia, kubeless, and Pulumi. Each of these tools offers something unique and is designed for particular problem spaces. There’s no one-size-fits-all answer and sometimes you’re better off with no tool at all.
 
-### May 16 - [GlueCon 2018](http://gluecon.com/#agenda), Denver, CO
+### May 16 2018 - [GlueCon 2018](http://gluecon.com/#agenda), Denver, CO
 
 #### For Immutable Infrastructure, Real Code beats DSLs 
 
-[Talk slides](/slides/Malayeri-GlueCon-2018-05-16.pdf)
+- [Talk slides](/slides/Malayeri-GlueCon-2018-05-16.pdf)
 
 As DevOps has evolved, developers are more often responsible for creating and managing the infrastructure their application code depends on. Unfortunately, cloud tools are designed around the previous ops model, where there were organizational silos between dev and ops teams. We’ll describe a novel idea: what if you could write code in a general purpose language, code that defines both your declarative infrastructure and your application logic? What if we go beyond the idea of infrastructure-as-code, and treat infrastructure as software? We’ll show how this approach creates a fundamental shift in the way in which modern cloud applications are designed and developed.
 
@@ -57,7 +59,15 @@ As DevOps has evolved, developers are more often responsible for creating and ma
 
 #### [From Enterprise to Startup: How to be a successful Product Manager](https://www.meetup.com/ProductTank-Bellevue/events/246823880/)
 
-[Talk slides](/slides/Malayeri-ProductTankBellevue-2018-01-24.pdf)
+- [Talk slides](/slides/Malayeri-ProductTankBellevue-2018-01-24.pdf)
 
 In tech, the role of a Product and Program Manager is constantly evolving. Even within an organization, the role can be dramatically different, depending on the team and the product. Donna will talk about how the role evolved at Microsoft over the years, and what she's learned now from being at a startup. Then we'll lead an open discussion of how to adjust your role to suit your team and business needs.
+
+### Sep 9 2017 - [Seattle Code Camp](https://seattle.codecamp.us/), Seattle, WA
+ 
+#### A day in the life of a product manager
+
+- [Talk slides](/slides/Malayeri-PM-SeattleCodeCamp-2017-09.pdf)
+
+Have you ever wondered why most big company product managers seem to be in meetings all day? Do you work effectively with your product manager? I’ll go through some areas that PMs typically manage and why they are important to your business. After this talk, you’ll learn about the many teams that contribute to the success of your product, such as marketing, evangelism, and sales. You’ll have an answer to the mystery of what all those meetings are for, and why Outlook is our IDE. Finally, you’ll learn how your PM can help you be even more effective.
 
